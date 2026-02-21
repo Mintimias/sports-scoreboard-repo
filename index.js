@@ -32,4 +32,3 @@
         currentPointsGuest += 3
         guestPoints.textContent = currentPointsGuest        
     }
-    
