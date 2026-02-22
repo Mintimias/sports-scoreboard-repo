@@ -6,7 +6,7 @@
     let currentPointsHome = 0
     let currentPointsGuest = 0
     
-//Home team button framwork?//    
+//Home team button framwork//    
     function add1PointHome(){
         currentPointsHome += 1
         homePoints.textContent = currentPointsHome
